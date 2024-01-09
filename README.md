@@ -1,2 +1,3 @@
 # TCC-ANSIBLE
-ansible playbooks
+ansible playbooks for localhost
+user and group management 
